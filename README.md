@@ -1,6 +1,6 @@
 ## Aplicación funcional de entrega
 
-El código ejecutable se encuentra en [FDPUS](FDPUS/README.md).
+El código ejecutable se encuentra en FDPUS.
 Modalidad de demostración: local, Python/Flask + MySQL 8.4 mediante Docker Compose.
 GitHub Pages mantiene el prototipo de referencia visual; no ejecuta el servidor ni MySQL.
 
